@@ -1,0 +1,9 @@
+{
+  "name": "libwasd",
+  "version": "1.0.0",
+  "author": "wasdawasd",
+  "target": "v5",s
+  "files": {
+    "firmware/wasd.a": "firmware/wasd.a"
+  }
+}
