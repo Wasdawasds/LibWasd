@@ -17,7 +17,7 @@ public:
     /** @brief Get the current state of the piston
      * @return true if extended, false if retracted
      */
-    bool get();
+    bool get() const;
 
     /** @brief Set the state of the piston
      * @param newState true if extended, false if retracted
